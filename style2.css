@@ -1,0 +1,27 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #886cee, #9757b1, #70407c,#650094,#2f0344);
+color: white;font-family: 'gill-sans-nova';
+
+}
+
+
+#myCarousel
+{
+    background-color: rgba(81, 35, 107, 0.486)
+}
+#myCarousel{
+    height: 300px;
+    margin-top: 35px;
+}
+
+#camera{
+  border:3px initial rgb(153, 0, 255);
+  border-radius: 10px;
+}
