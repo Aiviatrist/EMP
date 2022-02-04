@@ -14,3 +14,6 @@ function logout(){
     window.location="index.html";
     localStorage.removeItem("name");
 }
+function lol(){
+    window.location="Help.html";
+}
